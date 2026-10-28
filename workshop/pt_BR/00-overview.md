@@ -49,7 +49,7 @@ Antes de começar, verifique:
 
 | # | Habilidade | Descrição |
 |---|------------|-----------|
-| 1 | **Context Engineering** | Ensine o Copilot sobre sua base de código com instruções, referências e restrições claras |
+| 1 | **Engenharia de contexto** | Ensine o Copilot sobre sua base de código com instruções, referências e restrições claras |
 | 2 | **Planejar Primeiro** | Projete a arquitetura antes da implementação |
 | 3 | **Implementação Agêntica** | Deixe o Copilot realizar trabalho de codificação em múltiplas etapas com sua supervisão |
 | 4 | **Design Iterativo** | Use o Copilot para transformar visuais e refinar detalhes de interação |
